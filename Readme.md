@@ -19,7 +19,7 @@ This module provides a reference implementation for integrating Android App Shor
 
 1. **Clone the repository**:
     ```sh
-    https://github.com/harshsingh-io/AppShortcuts.git
+    git clone https://github.com/harshsingh-io/AppShortcuts.git
     ```
 
 2. **Open the project in Android Studio**:
